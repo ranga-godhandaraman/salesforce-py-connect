@@ -96,3 +96,4 @@ Account ID: 001xx000003DHPeAAO, Name: Smart Solutions
 
 - [Simple Salesforce Documentation](https://pypi.org/project/simple-salesforce/)
 - [Salesforce SOQL Documentation](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/)
+- [GitHub Docs for Simple SalesForce] (https://github.com/simple-salesforce/simple-salesforce/)
